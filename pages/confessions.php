@@ -1,0 +1,2 @@
+<?php
+// Confessions listing page

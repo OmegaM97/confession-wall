@@ -1,0 +1,2 @@
+-- Database schema for confession-wall
+-- Add your table definitions here
