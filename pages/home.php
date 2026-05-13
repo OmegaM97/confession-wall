@@ -1,5 +1,5 @@
 <!-- Navbar -->
-<nav class="navbar">
+<nav class="navbar" style="margin-top: 1rem;">
     <div class="container">
         <div class="logo">Confession Wall</div>
         <ul class="nav-links">
@@ -107,32 +107,3 @@
         <a href="index.php?page=add_confession" class="btn">Start Confessing</a>
     </div>
 </section>
-
-<!-- Footer -->
-<footer class="footer">
-    <div class="container">
-        <div>
-            <div class="logo">Confession Wall</div>
-            <p>A safe space for anonymous sharing and community support.</p>
-        </div>
-        <div>
-            <h4>Quick Links</h4>
-            <ul>
-                <li><a href="index.php?page=home">Home</a></li>
-                <li><a href="index.php?page=confessions">Confessions</a></li>
-                <li><a href="index.php?page=about">About</a></li>
-            </ul>
-        </div>
-        <div>
-            <h4>Follow Us</h4>
-            <div class="social-links">
-                <a href="#">Twitter</a>
-                <a href="#">Facebook</a>
-                <a href="#">Instagram</a>
-            </div>
-        </div>
-    </div>
-    <div class="copyright">
-        <p>&copy; 2024 Confession Wall. All rights reserved.</p>
-    </div>
-</footer>
